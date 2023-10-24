@@ -1,12 +1,14 @@
-Introduction:
+# Kerberos
+## Introduction:
 
-What is Kerberos protocol :
-						    ![Kerberos Logo](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/kerberos_01.png)
+# What is Kerberos protocol :
+
+![Kerberos Logo](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/kerberos_01.png)
 	  
 
 Kerberos is a network authentication protocol designed to provide secure authentication for users and services in a distributed computing environment. It is primarily used to ensure that only trusted entities can access network resources and services. Kerberos uses tickets to authenticate users without transmitting their passwords over the network, making it a more secure authentication mechanism.
 
-Kerberos and active directory : 
+## Kerberos and active directory : 
 
 Kerberos and Active Directory (AD) are integral components of modern network authentication and security. Kerberos is a network authentication protocol, while Active Directory is a directory service developed by Microsoft. Together, they provide a robust and secure authentication and authorization framework for users and resources in a Windows domain-based network environment. In this note, we will explore the key features of Kerberos and its integration with Active Directory.
 
@@ -16,7 +18,7 @@ The Kerberos protocol uses port 88 (both TCP and UDP). When enumerating an Activ
 
 
 
-Components of Kerberos:
+## Components of Kerberos:
 
 
 • Principal: In Kerberos, users, services, and servers are represented as principals. A principal is a unique identifier associated with a user or service.
@@ -60,7 +62,7 @@ Kerberos Authentication Process in Active Directory:
 ![Authentication Service Request](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/kerberos_03.png)
 								
 								
-Benefits of Kerberos with Active Directory:
+## Benefits of Kerberos with Active Directory:
 
 • Single Sign-On (SSO): Kerberos enables SSO, allowing users to access multiple services with a single authentication, enhancing user experience and reducing the need to remember multiple passwords.
 
