@@ -30,12 +30,18 @@ DNS Records:
 
 • DNS servers store various types of records that hold specific information about a domain.
 • Common DNS record types include:
-		► A (Address) record: Maps a domain to an IPv4 address.
-		► AAAA (IPv6 Address) record: Maps a domain to an IPv6 address.
-		► CNAME (Canonical Name) record: Creates an alias for another domain name.
-		► MX (Mail Exchange) record: Specifies the mail server responsible for handling emails for a domain.
-		► NS (Name Server) record: Indicates the authoritative name servers for a domain.
-		► TXT (Text) record: Stores descriptive text associated with a domain.
+
+► A (Address) record: Maps a domain to an IPv4 address.
+
+► AAAA (IPv6 Address) record: Maps a domain to an IPv6 address.
+
+► CNAME (Canonical Name) record: Creates an alias for another domain name.
+
+► MX (Mail Exchange) record: Specifies the mail server responsible for handling emails for a domain.
+
+► NS (Name Server) record: Indicates the authoritative name servers for a domain.
+
+► TXT (Text) record: Stores descriptive text associated with a domain.
 
 DNS Caching:
 
