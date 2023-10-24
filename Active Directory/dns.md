@@ -2,7 +2,7 @@ Introduction:
 
 DNS (Domain Name System) is a fundamental protocol used on the internet and local networks to translate human-readable domain names into numerical IP addresses. It plays a crucial role in enabling users to access websites and services by typing user-friendly domain names rather than remembering complex IP addresses.
 
-		![DNS ](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/dns_01.png)
+![DNS ](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/dns_01.png)
 
 
 Purpose of DNS:
