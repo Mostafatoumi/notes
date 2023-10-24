@@ -1,6 +1,6 @@
 # NTLM Authentication in Active Directory
 
-Introduction:
+## Introduction:
 
 In Active Directory (AD), apart from Kerberos and LDAP, various other authentication methods are used by applications and services. These include LM, NTLM, NTLMv1, and NTLMv2. Understanding the differences between these hashes and protocols is crucial for securing AD environments.
 
@@ -30,7 +30,7 @@ Note: Neither LANMAN nor NTLM uses a salt.
 
 	
 	
-NTLM Authentication Request:
+## NTLM Authentication Request:
 
 			
 ![Ntml Auth](https://github.com/Mostafatoumi/notes/blob/main/img%20notes/ntlm_01.png)
@@ -69,6 +69,6 @@ Domain Cached Credentials (MSCache2):
 	• Hosts save the last ten hashes of domain users in the registry (HKEY_LOCAL_MACHINE\SECURITY\Cache).
 	• Hashes cannot be used in pass-the-hash attacks and are slow to crack.
 
-Conclusion
+## Conclusion
 
 Understanding the various hash types and authentication protocols in Active Directory is essential for maintaining a secure environment. While Kerberos is preferred, it's crucial to implement proper security measures for LM and NTLM to prevent potential attacks. Being aware of the strengths and weaknesses of each hash type helps in designing effective defense strategies for AD environments.
