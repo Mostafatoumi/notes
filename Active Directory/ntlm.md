@@ -1,4 +1,4 @@
-Notebook: NTLM Authentication in Active Directory
+# NTLM Authentication in Active Directory
 
 Introduction:
 
