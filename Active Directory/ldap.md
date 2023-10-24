@@ -1,4 +1,5 @@
 # ldap
+
 ## Introduction:
 
 LDAP (Lightweight Directory Access Protocol) is a widely used protocol for accessing and managing directory information. When integrated with Active Directory (AD), LDAP serves as the primary means of querying and modifying objects within AD. In this note, we will explore how LDAP works with Active Directory.
