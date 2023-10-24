@@ -72,5 +72,3 @@ Domain Cached Credentials (MSCache2):
 Conclusion
 
 Understanding the various hash types and authentication protocols in Active Directory is essential for maintaining a secure environment. While Kerberos is preferred, it's crucial to implement proper security measures for LM and NTLM to prevent potential attacks. Being aware of the strengths and weaknesses of each hash type helps in designing effective defense strategies for AD environments.
-
-![image](https://github.com/Mostafatoumi/notes/assets/95372480/f63675b9-72cd-4e86-9232-32b56449033f)
